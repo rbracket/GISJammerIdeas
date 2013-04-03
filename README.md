@@ -1,6 +1,6 @@
 make-a-gh-page
 ==============
 
-a place to learn how github pages work
+Oregon Walks GIS Jammers Ideas and Documents
 
-adding a photo, March 11, 2013
+
